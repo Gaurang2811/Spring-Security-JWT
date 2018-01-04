@@ -1,4 +1,4 @@
-package com.auth0.samples.authapi.user;
+package com.spring.example.maven.springsecurityjwt.user;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

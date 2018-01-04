@@ -1,4 +1,4 @@
-package com.auth0.samples.authapi;
+package com.spring.example.maven.springsecurityjwt;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class AuthApiApplicationTests {
+public class SpringSecurityJwtApplicationTests {
 
 	@Test
 	public void contextLoads() {

@@ -1,4 +1,4 @@
-package com.auth0.samples.authapi.user;
+package com.spring.example.maven.springsecurityjwt.user;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
